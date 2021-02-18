@@ -1,5 +1,4 @@
 import requests
-import json
 banner = '''
 \033[1;34m
  $$$$$$\                                          $$\   $$\                     $$$$$$\ $$$$$$$\  
